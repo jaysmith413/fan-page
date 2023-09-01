@@ -1,0 +1,19 @@
+body {
+    background-color: maroon;
+    color: gold;
+}
+
+img {
+    width: 100px;
+}
+
+h1 {
+    text-align: center;
+}
+h2 {
+    text-decoration: underline;
+}
+
+blockquote {
+    font-style: italic;
+}
